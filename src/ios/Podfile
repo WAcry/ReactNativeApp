@@ -1,0 +1,37 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Github_RN' do
+    
+    # Umeng    
+    pod 'UMCCommon'
+    pod 'UMCSecurityPlugins'
+    pod 'UMCCommonLog'
+    
+    #   
+    pod 'UMCAnalytics'
+    
+    #      
+    # U-Share SDK UI  （    ，    ）
+    pod 'UMCShare/UI'
+    
+    #     (   0.2M)
+    pod 'UMCShare/Social/ReducedWeChat'
+    
+    #   QQ/QZone/TIM(   0.5M)
+    pod 'UMCShare/Social/ReducedQQ'
+    
+    #       (   1M)
+    pod 'UMCShare/Social/ReducedSina'
+    
+    #     
+    pod 'UMCShare/Social/Email'
+    
+    #     
+    pod 'UMCShare/Social/SMS'
+    # pod 'react-native-splash-screen', :path => '../node_modules/react-native-splash-screen'
+    
+  # pod 'react-native-webview', :path => '../node_modules/react-native-webview'
+
+end
+

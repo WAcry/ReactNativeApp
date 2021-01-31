@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="umeng_socialize_sharetosina">share to weibo</string>
+    <string name="umeng_socialize_sharetodouban">share to douban</string>
+    <string name="umeng_socialize_sharetorenren">share to renren</string>
+
+    <string name="umeng_socialize_sharetotencent">share to tencent weibo</string>
+    <string name="umeng_socialize_sharetotwitter">share to twitter</string>
+    <string name="umeng_socialize_sharetolinkin">share to linkedIn</string>
+</resources>
