@@ -1,4 +1,4 @@
-# ReactNativeApp [Archived]
+# React Native Github App
 
 a third party react native github app
 
